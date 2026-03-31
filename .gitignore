@@ -1,4 +1,10 @@
-# ignore executables
 *.out
 *.output
 *.o
+*.s
+
+
+
+
+# debugger
+.gdb_history
